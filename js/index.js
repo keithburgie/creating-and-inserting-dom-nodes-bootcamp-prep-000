@@ -7,3 +7,5 @@ element.innerHTML = 'Hello, DOM!';
 element.style.backgroundColor = '#bada55';
 
 document.body.appendChild(element);
+
+element.style.textAlign = 'center';
